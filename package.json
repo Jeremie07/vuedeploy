@@ -2,7 +2,7 @@
   "name": "cit510_demo1",
   "version": "0.0.0",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
 },
   "scripts": {
     "serve": "vite preview",
